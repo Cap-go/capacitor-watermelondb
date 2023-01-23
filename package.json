@@ -1,7 +1,7 @@
 {
   "name": "@capgo/capacitor-watermelondb",
   "version": "0.0.1",
-  "description": "� Reactive & asynchronous database for powerfull Capacitore apps ⚡️�",
+  "description": "🍉 Reactive & asynchronous database for powerfull Capacitore apps ⚡️",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -74,5 +74,8 @@
     "android": {
       "src": "android"
     }
+  },
+  "dependencies": {
+    "@nozbe/watermelondb": "^0.25.1"
   }
 }

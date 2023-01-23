@@ -1,5 +1,7 @@
 # @capgo/capacitor-watermelondb
 
+WIP: plugin under development
+
 � Reactive & asynchronous database for powerfull Capacitore apps ⚡️�
 
 ## Install
