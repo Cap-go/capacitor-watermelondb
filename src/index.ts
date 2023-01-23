@@ -10,4 +10,5 @@ const CapacitorWatermelonDb = registerPlugin<CapacitorWatermelonDbPlugin>(
 );
 
 export * from './definitions';
+export * from '@nozbe/watermelondb';
 export { CapacitorWatermelonDb };
